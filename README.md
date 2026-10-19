@@ -80,6 +80,8 @@ see AIM Academy above - Great science options; guided labs are often included, u
 
 [Journal of Emerging Investigators](https://emerginginvestigators.org) - Resources and opportunities to be published before college.
 
+[Scivra](https://scivra.com) - Browser-based 3D virtual labs for physics, chemistry, biology, Earth and environmental science; aligned with NGSS, AP, and NY Regents; three labs are free without an account, full access is a paid subscription.
+
 ### Biology
 
 [Thinkwell](https://www.thinkwell.com/products/biology) - Video-based study supplement to biology etc. concepts; need to add labs.
